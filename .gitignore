@@ -1,0 +1,6 @@
+*.suo
+**/bin/
+**/obj/
+/release/
+.vs
+.DS_Store
